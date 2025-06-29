@@ -2,7 +2,7 @@ Reflection
 
 How can I ensure that my code, program, or software is functional and secure?
 
-I ensure functionality by writing unit tests to validate expected behavior and uncover bugs early. By testing individual components like ContactService, I can verify that each method behaves correctly under various conditions. To ensure security, I follow principles like input validation and least privilege, and I avoid hardcoding sensitive data. Automated testing frameworks also help ensure reliability over time.
+I ensure functionality by writing unit tests to validate expected behavior and uncover bugs early. By testing individual components, I can verify that each method behaves correctly under various conditions. To ensure security, I follow principles like input validation and least privilege. Automated testing frameworks also help ensure reliability over time.
 
 How do I interpret user needs and incorporate them into a program?
 
